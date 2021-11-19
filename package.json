@@ -1,6 +1,6 @@
 {
   "name": "@chiiya/laravel-mix-imagemin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Elisha Witte <elishawitte@gmail.com>",
   "license": "MIT",
   "description": "Imagemin plugin for Laravel Mix",
