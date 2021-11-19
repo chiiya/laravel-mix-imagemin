@@ -28,7 +28,7 @@
 
 ## Installation
 
-<pre>npm i --dev <a href="https://www.npmjs.com/package/@chiiya/laravel-mix-imagemin">@chiiya/laravel-mix-imagemin</a></pre>
+<pre>npm i --save-dev <a href="https://www.npmjs.com/package/@chiiya/laravel-mix-imagemin">@chiiya/laravel-mix-imagemin</a></pre>
 
 ## Usage
 Require it in your `webpack.mix.js` file, then pass it a valid [`copy-webpack-plugin`](https://webpack.js.org/plugins/copy-webpack-plugin/)
