@@ -51,7 +51,7 @@ mix
 
 ## Options
 
-The `mix.imagemin` function accepts to parameters: options for the [`copy-webpack-plugin`](https://webpack.js.org/plugins/copy-webpack-plugin/)
+The `mix.imagemin` function accepts two parameters: options for the [`copy-webpack-plugin`](https://webpack.js.org/plugins/copy-webpack-plugin/)
 and options for the [`imagemin-webpack-plugin`](https://github.com/Klathmon/imagemin-webpack-plugin).
 
 ```js
