@@ -1,3 +1,5 @@
+<h3 align="center">[ARCHIVED] Use <a href="https://github.com/chiiya/laravel-mix-image-minimizer"><code>@chiiya/laravel-mix-image-minimizer</code></a> instead</h3>
+<br />
 <br />
 <div align="center">
   <p align="center">
